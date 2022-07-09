@@ -12,7 +12,7 @@ This is a prectice of HTML and CSS from  Odin's Project.
 
 ## Live Demo
 
-[Landing page](#)<br>
+[Landing page](https://franclobo.github.io/Landing-Page/)<br>
 
 ## Author
 
